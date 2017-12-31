@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body{
+  background-image:url("https://static1.squarespace.com/static/587acf0b59cc68c821b21f54/t/587b1e031b631b453a3c8db1/1484463621303/twitch+logo+background.jpg?format=1500w");
+  color:white;
+  font-family:"Lobster";
+  background-size:cover;
+}
+#header{
+  background:rgba(0,0,0,.5);
+  border: 5px white solid;
+  border-radius:25px;
+}
+img{
+  width:100px;
+  border-radius:50%;
+}
+.col-md-4{
+  padding:5px;
+}
+.row{
+  background: rgba(0,0,0,.50);
+  border: 5px white solid;
+  border-radius:25px;
+  margin:10px;
+}
